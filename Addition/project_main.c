@@ -3,19 +3,9 @@
 #include<stdlib.h>
 #include"sum.h"
 
-
-void addition();
-
 int main()
 {
-  test_main();
-  return 0;
-}
-    
-void addition() 
-{
-    int c=10,d=43;
-    
-    int total=sum(c,d);
-    printf("Value = %d",total);
+ int a = 10,b=20;
+    sum(a,b);
+    return 0;
 }
