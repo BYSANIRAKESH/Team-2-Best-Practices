@@ -1,6 +1,6 @@
-#ifndef __TEST_OPERATIONS_H__
- #define __TEST_OPERATIONS_H__
+#ifndef __TEST_OPERATIONS_H
+#define __TEST_OPERATIONS_H
 
- int test_main(void);
+int test_main(void);
 
 #endif 
